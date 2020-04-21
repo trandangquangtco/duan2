@@ -2,3 +2,6 @@ hello
 good morning\
 afternoon
 evening
+night
+Have a good day
+
